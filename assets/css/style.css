@@ -24,7 +24,8 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/* change header divs to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,16 +33,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* add a tag css to header div ul li */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -89,33 +89,23 @@ p {
 }
 
 /* change benefit classes to single class */
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* change benefit h3 classes to single class */
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
