@@ -100,55 +100,15 @@ p {
     text-align: center;
 }
 
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 /* change benefit img classes to single class */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* change seo, orm, and smm classes to single class */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+.content-sections {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -157,30 +117,12 @@ p {
     color: #ffffff;
 }
 /* change image classes to single class */
-.search-engine-optimization img {
+.content-sections img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* change h2 chalsses to single h2 class */
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* change h2 classes to single h2 class */
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
